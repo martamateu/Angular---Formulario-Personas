@@ -1,17 +1,18 @@
 
-#### Samsung Desarrolladoras - Práctica 7 Angular
+#### Práctica Angular
 
-Se propone generar un formulario con Angular que permita crear, editar, modificar y borrar un listado de personas.
-Para ello se puede utilizar la clase creada en la práctica de TypeScript, Persona, aunque no será necesario proporcionar los campos Dirección, Teléfono y Mail.
+It is proposed to generate a form with Angular that allows you to create, edit, modify and delete a list of people.
 
-A la hora de crear o editar una persona será necesario realizar las siguientes validaciones sobre los datos:
-- Se ha de poder dar de alta nuevas personas y visualizarlas en una lista.
-- Todos los registros han de poder modificarse.
-- Todos los registros han de poder borrarse.
-- Se ha de utilizar angular-material.
-- Las fechas han de mostrarse en formato dd/mm/aaaa.
-- Se comprobará que el DNI tenga 9 caracteres.
-- Se comprobará que el Nombre, Apellidos y ColorFavorito tengan al menos 3
-caracteres.
-- Se comprobará que la edad esté comprendida entre 0 y 125.
-- El sexo ha de seleccionarse entre los valores Hombre, Mujer, Otro y No especificado. 
+To do this you can use the class created in TypeScript practice, Persona, although it will not be necessary to provide the fields Address, Telephone and Mail.
+
+When creating or editing a person it will be necessary to perform the following validations on the data:
+
+-You must be able to register new people and view them in a list.
+-All records must be amenable.
+-All records must be erased.
+-Angular-material must be used.
+-Dates must be displayed in dd/mm/yyyy format.
+-Check that the ID has 9 characters.
+-Check that the Name, Surname and ColorFavorito have at least 3 characters.
+-It shall be checked that the age is between 0 and 125.
+-Sex must be selected from the values Male, Female, Other and Unspecified.
