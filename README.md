@@ -1,5 +1,5 @@
 
-#### Práctica Angular
+## Práctica Angular
 
 It is proposed to generate a form with Angular that allows you to create, edit, modify and delete a list of people.
 
